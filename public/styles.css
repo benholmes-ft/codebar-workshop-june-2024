@@ -25,6 +25,7 @@ body {
 .message-container {
     height: 100%;
     overflow-y: scroll;
+    margin-bottom: 15px;
 }
 
 .message {
@@ -32,8 +33,8 @@ body {
 }
 
 .input-container {
+    margin: 5px 0;
     display: flex;
-    margin-top: 20px;
 }
 
 .input-container input {
